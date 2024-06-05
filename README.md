@@ -1,4 +1,4 @@
-# PRG-G-nesisLaguna
+# PRG-GenesisLaguna
 ## Introducción:
 
 El siguiente trabajo corresponde a la asignatura de programación con el profesor Andrés Quintero Zea, en donde se nos planteó como reto desarrollar un proyecto de analítica de datos, usando técnicas de aprendizaje supervisado respecto a una problemática orientada a el área de interés de cada estudiante, en este caso, ingeniería mecatrónica.
