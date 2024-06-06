@@ -26,4 +26,12 @@ Para  este ejercicio decidí utilizar un conjunto de datos de UR3 CobotOps del r
 - Paradas de protección 
 - Pérdidas de agarre
 
+## Visualice los archivos en el siguiente orden:
+- README.md
+- Exploración.ipynb
+- Procesado.ipynb
+- Informe Trabajo N°4 Programación.pdf
+- Modelo 1.ipynb
+- Modelo 2.ipynb
+  
 ## Url del dataset: https://archive.ics.uci.edu/dataset/963/ur3+cobotops
